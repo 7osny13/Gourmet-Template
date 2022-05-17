@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+}
+
+.card-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card-text h6{
+    margin-top: 20px;
+}
+
+.card-text p {
+    margin-top: 20px;
+}
+
+.menu-card .card-title{
+    text-align: center;
+
+}
+
+.menuitmes > div{
+    margin-bottom: 50px;
+}
+
+.menuitmes h5{
+    letter-spacing: 5px;
+}
+.menuitmes p {
+    font-weight: 200;
+}
